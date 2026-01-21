@@ -1,11 +1,16 @@
 {
+  
+
   "name": "media-app-backend",
   "version": "1.0.0",
   "description": "media-backend",
   "main": "index.js",
   "scripts": {
+   
+
     "start": "node index.js"
   },
+
   "author": "jithu",
   "license": "ISC",
   "dependencies": {
