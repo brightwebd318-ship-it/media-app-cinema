@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/media-app-cinema/static/css/main.c2f303e8.css",
+    "main.js": "/media-app-cinema/static/js/main.612c9aef.js",
+    "static/media/landing-hero.png": "/media-app-cinema/static/media/landing-hero.51c5acd18c0b6f9ae7c1.png",
+    "static/media/feature-manage.png": "/media-app-cinema/static/media/feature-manage.0b0015b44f4afad219b3.png",
+    "static/media/feature-history.png": "/media-app-cinema/static/media/feature-history.8fdf51ecec639aca40b5.png",
+    "static/media/feature-cat.png": "/media-app-cinema/static/media/feature-cat.cabb8526b6c19303d970.png",
+    "static/media/fa-solid-900.ttf": "/media-app-cinema/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/logo.png": "/media-app-cinema/static/media/logo.4c0cfa0fdebb967da5a2.png",
+    "static/media/fa-brands-400.ttf": "/media-app-cinema/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/media-app-cinema/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/media-app-cinema/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/media-app-cinema/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/media-app-cinema/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/media-app-cinema/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/media-app-cinema/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/media-app-cinema/index.html",
+    "main.c2f303e8.css.map": "/media-app-cinema/static/css/main.c2f303e8.css.map",
+    "main.612c9aef.js.map": "/media-app-cinema/static/js/main.612c9aef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2f303e8.css",
+    "static/js/main.612c9aef.js"
+  ]
+}
