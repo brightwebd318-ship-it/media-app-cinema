@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Circular+Std:wght@300;400;500;700&family=Exo+2:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --spotify-black: #121212;
+  --spotify-dark-gray: #181818;
+  --spotify-light-gray: #282828;
+  --spotify-lighter-gray: #b3b3b3;
+  --spotify-white: #ffffff;
+  --spotify-green: #1DB954;
+  --spotify-green-hover: #1ed760;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Exo 2', sans-serif;
+  /* Fallback to Exo 2 as Circular is proprietary */
+}
+
+body {
+  background-color: var(--spotify-black);
+  color: var(--spotify-white);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--spotify-black);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #555;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}
